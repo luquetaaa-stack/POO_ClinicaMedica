@@ -1,0 +1,14 @@
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\bin\Debug\net8.0\Projeto Clinica POO.exe
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\bin\Debug\net8.0\Projeto Clinica POO.deps.json
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\bin\Debug\net8.0\Projeto Clinica POO.runtimeconfig.json
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\bin\Debug\net8.0\Projeto Clinica POO.dll
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\bin\Debug\net8.0\Projeto Clinica POO.pdb
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.AssemblyInfoInputs.cache
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.AssemblyInfo.cs
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.dll
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\refint\Projeto Clinica POO.dll
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.pdb
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\Projeto Clinica POO.genruntimeconfig.cache
+C:\Users\aluno.senai\Documents\POO\Projeto Clinica POO\Projeto Clinica POO\obj\Debug\net8.0\ref\Projeto Clinica POO.dll
